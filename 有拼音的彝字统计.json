@@ -1,0 +1,84 @@
+[
+    {
+        "dialect": "南部",
+        "locals": [
+            {
+                " local": "红河",
+                " count": 2407
+            },
+            {
+                " local": "石屏",
+                " count": 2940
+            }
+        ]
+    },
+    {
+        "dialect": "北部",
+        "locals": [
+            {
+                " local": "喜德",
+                " count": 2357
+            }
+        ]
+    },
+    {
+        "dialect": "东部",
+        "locals": [
+            {
+                " local": "威宁",
+                " count": 3107
+            },
+            {
+                " local": "禄劝",
+                " count": 1958
+            },
+            {
+                " local": "大方",
+                " count": 3183
+            },
+            {
+                " local": "毕节",
+                " count": 3201
+            },
+            {
+                " local": "盘县",
+                " count": 1551
+            },
+            {
+                " local": "隆林",
+                " count": 1801
+            }
+        ]
+    },
+    {
+        "dialect": "东南",
+        "locals": [
+            {
+                " local": "石林",
+                " count": 1446
+            }
+        ]
+    },
+    {
+        "dialect": "西部",
+        "locals": [
+            {
+                " local": "巍山",
+                " count": 2178
+            }
+        ]
+    },
+    {
+        "dialect": "中部",
+        "locals": [
+            {
+                " local": "楚雄",
+                " count": 975
+            },
+            {
+                " local": "永仁",
+                " count": 1146
+            }
+        ]
+    }
+]
