@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "LSTY-Yi, Consolas, 'Courier New', monospace"
+    "editor.fontFamily": "LSTY-Yi, Consolas, 'Courier New', monospace",
+    "editor.quickSuggestions": false
 }
