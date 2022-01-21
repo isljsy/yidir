@@ -23,7 +23,7 @@ SET FOREIGN_KEY_CHECKS = 0;
 DROP TABLE IF EXISTS `yi_words`;
 CREATE TABLE `yi_words`  (
   `id` int NOT NULL DEFAULT 0,
-  `word` varchar(1) UNIQUE CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  `word` varchar(1) UNIQUE NOT NULL,
   `page` int NULL DEFAULT NULL,
   `radical` varchar(1) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
   `count` int NULL DEFAULT NULL,
