@@ -9,7 +9,7 @@
 - 彝文如今境地，主要原因之一便是古代毕摩对彝文的垄断，只传以下一代毕摩，各自独利，彝文传播受限。今时知识尚共享、开源，希望大家一起为传播彝文做贡献
 # 小程序
 - “通用彝文字典”
-![miniprogram](https://user-images.githubusercontent.com/55614027/217171884-6a63b3a5-9ac1-4fc6-bb67-15d9ec2db815.png)
+![miniprogram](https://user-images.githubusercontent.com/55614027/217173591-9e1f8544-b414-4d1c-a7e7-5b4c2031046e.png)
 
 # 数据来源
 - 零彝通用字体和翻译 —— 西部方言-阿茶茶
