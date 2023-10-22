@@ -12,6 +12,7 @@
 - 通用彝文字典
 
 ![miniprogram](https://user-images.githubusercontent.com/55614027/217173591-9e1f8544-b414-4d1c-a7e7-5b4c2031046e.png)
+- 小程序代码：https://git.weixin.qq.com/wx_wxc40e98bb4f25979a/dic.git
 
 # 数据来源
 - 零彝通用字体和翻译 —— 西部方言-阿茶茶
